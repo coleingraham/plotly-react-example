@@ -7,7 +7,7 @@ const amplifyConfig = {
         endpoints: [
             {
                 name: 'exampleApi',
-                endpoint: 'https://qojy5wzkvc.execute-api.us-east-2.amazonaws.com/prod'
+                endpoint: 'https://a7gdprg20c.execute-api.us-east-2.amazonaws.com/prod'
             }
         ]
     }
